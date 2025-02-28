@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Integration\\DoctrineUserRepositoryTest::testSaveAndFindUser":8,"Tests\\Integration\\DoctrineUserRepositoryTest::testDeleteUser":8},"times":{"UserTest::testUserCreation":0.2,"Tests\\Integration\\DoctrineUserRepositoryTest::testSaveAndFindUser":0.556,"Tests\\Integration\\DoctrineUserRepositoryTest::testDeleteUser":0.083}}

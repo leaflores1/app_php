@@ -1,0 +1,23 @@
+# Ignorar dependencias de Composer (serán instaladas en el contenedor)
+vendor/
+
+# Ignorar dependencias de Node.js 
+node_modules/
+
+.env
+
+# Ignorar archivos de configuración de Git
+.git/
+.gitignore
+
+# Ignorar logs y caché
+logs/
+.cache/
+
+# Ignorar Dockerfile y docker-compose.yml (ya están en el contenedor)
+Dockerfile
+docker-compose.yml
+
+# Ignorar PHPUnit resultados de pruebas
+phpunit.xml
+coverage/
